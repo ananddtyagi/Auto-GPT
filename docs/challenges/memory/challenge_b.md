@@ -3,7 +3,7 @@
 **Status**: Current level to beat: level 3
 
 **Command to try**: 
-```
+``
 pytest -s tests/integration/challenges/memory/test_memory_challenge_b.py --level=3
 ``
 
